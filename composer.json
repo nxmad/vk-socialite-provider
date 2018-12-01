@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/vk",
+    "name": "nxmad/vk-socialite-provider",
     "description": "VK.com OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [
